@@ -19,7 +19,7 @@ Esistono solo piccoli passi. Decisioni pratiche. E la forza di non far finta di 
 ---
 
 🔗 **Sito web:**  
-[Salute Maschile – Il Blog](https://salute-uomo.github.io/racconti-maschili/)
+[Salute Maschile](https://salute-uomo.github.io/racconti-maschili/)
 
 ---
 
